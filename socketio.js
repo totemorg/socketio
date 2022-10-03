@@ -9,7 +9,7 @@ ref: https://medium.com/hackernoon/implementing-a-websocket-server-with-node-js-
 @module SOCKETIO
 @author [ACMESDS](https://totemstan.github.io)
 
-@requires [enums](https://github.com/totemstan/enums) 
+@requires [@totemstan/enums](https://www.npmjs.com/package/@totemstan/enums) 
 @requires [crypto](https://nodejs.org/docs/latest/api/)
 
 @example
@@ -87,7 +87,7 @@ On the client:
 
 const
 	CRYPTO = require("crypto"),
-	{Copy, Each, Start, isFunction} = require("./enums");
+	{Copy, Each, Start, isFunction} = require("@totemstan/enums");
 
 const
 	{ Trace } = module.exports = SIO = Copy({

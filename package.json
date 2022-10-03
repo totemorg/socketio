@@ -1,5 +1,5 @@
 {
-  "name": "socketio",
+  "name": "@totemstan/socketio",
   "version": "1.4.0",
   "description": "Replacement for buggy socket.io",
   "main": "socketio.js",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/totemstan/socketio/issues"
   },
-  "homepage": "https://github.com/totemstan/socketio#readme"
+  "homepage": "https://github.com/totemstan/socketio#readme",
+  "dependencies": {
+    "@totemstan/enums": "^1.13.0"
+  }
 }
