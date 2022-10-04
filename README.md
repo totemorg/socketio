@@ -6,10 +6,9 @@ and its [socket.io-client](https://www.npmjs.com/package/socket.io-client) clien
 **SocketIO** provides both a server-side and client-side modules that mimic the [socket.io](https://socket.io/docs/v3/client-initialization/)
 specification (less the bugs of course).
 
-## Starting
+## Manage
 
-To start and manage **SocketIO**:
-
+	npm install @totemstan/socketio	# install
 	npm run start [ ? | $ | ...]	# Unit test
 	npm run verminor				# Roll minor version
 	npm run vermajor				# Roll major version
