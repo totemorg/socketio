@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/totemstan/socketio#readme",
   "dependencies": {
-    "@totemstan/enums": "^1.13.0"
+    "@totemstan/enums": "^1.16.0"
   }
 }
