@@ -1,7 +1,7 @@
 {
-  "name": "@totemstan/socketio",
-  "version": "1.7.0",
-  "description": "Replacement for buggy socket.io",
+  "name": "@totemorg/socketio",
+  "version": "1.8.0",
+  "description": "Provieds web sockets betweens web clients.  Replaces buggy socket.io",
   "main": "socketio.js",
   "scripts": {
     "verminor": "npm version minor -f",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/totemstan/socketio.git"
+    "url": "git+https://github.com/totemorg/socketio.git"
   },
   "keywords": [
     "web",
@@ -20,10 +20,10 @@
   "author": "acme SDS",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/totemstan/socketio/issues"
+    "url": "https://github.com/totemorg/socketio/issues"
   },
-  "homepage": "https://github.com/totemstan/socketio#readme",
+  "homepage": "https://github.com/totemorg/socketio#readme",
   "dependencies": {
-    "@totemstan/enums": "^1.16.0"
+    "@totemorg/enums": "^1.16.0"
   }
 }
