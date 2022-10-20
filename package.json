@@ -1,6 +1,6 @@
 {
   "name": "@totemorg/socketio",
-  "version": "1.11.0",
+  "version": "1.12.0",
   "description": "Provieds web sockets betweens web clients.  Replaces buggy socket.io",
   "main": "socketio.js",
   "scripts": {
